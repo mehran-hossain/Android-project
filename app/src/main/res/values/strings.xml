@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">demo3</string>
+    <string name="tab_text_1">Reminders</string>
+    <string name="tab_text_2">Pomodoro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="days_array">
+
+        <item>All</item>
+
+        <item>Sun</item>
+
+        <item>Mon</item>
+
+        <item>Tue</item>
+
+        <item>Wed</item>
+
+        <item>Thu</item>
+
+        <item>Fri</item>
+
+        <item>Sat</item>
+    </string-array>
+
+</resources>
